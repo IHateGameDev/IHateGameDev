@@ -1,1 +1,1 @@
-# Also i hate programming!
+# The simple guy
