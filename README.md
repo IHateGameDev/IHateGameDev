@@ -4,8 +4,8 @@ This file will tell you a little about me as a programmer!
 ## List of Favorite Programming Languages
 <code><img height="50" alt="C" src="images/c.png"></code>
 <code><img height="50" alt="lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="50" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png"></code>
-<code><img height="50" alt="shell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/shell/shell.png"></code>
+<code><img height="50" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="50" alt="shell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sh/sh.png"></code>
 
 ## Some statistics
 <div align="center">
