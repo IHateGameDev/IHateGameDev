@@ -7,7 +7,7 @@ This file will tell you a little about me as a programmer!
 <code><img height="75" alt="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 <code><img height="75" alt="C++" src="images/cpp.png"></code>
 <code><img height="75" alt="Bash" src="images/bash.png"></code>
-<div/>
+</div>
 
 ## Some statistics
 <div align="center">
