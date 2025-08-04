@@ -2,7 +2,7 @@
 This file will tell you a little about me as a programmer!
 
 ## List of Favorite Programming Languages
-- **** - C
+<code><img height="50" alt="C" src="images/c.jpg"></code>
 - **󰢱** - Lua
 - **** - C++
 - **** - Shell
