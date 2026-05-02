@@ -1,7 +1,7 @@
 # Hi — I'm awsq.code (IHateGameDev) 👋
 
 I'm a student learning programming and computer systems. I often dive deep into a project, then switch to something else, and come back later. I appreciate feedback, suggestions, and code reviews - feel free to reach out.
-Now github store RO repos. For early edits and RW, visit [codeber](https://codeberg.com/awsq).
+Now github store RO repos. For early edits and RW, visit [codeber](https://codeberg.org/awsq).
 
 ## About me 👀
 - **Role:** Student
