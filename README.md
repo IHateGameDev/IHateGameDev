@@ -1,6 +1,6 @@
-# Hi — I'm IHateGameDev (IHGD) 👋
+# Hi — I'm awsq.code (IHateGameDev) 👋
 
-I'm a student learning programming and computer systems. I often dive deep into a project, then switch to something else, and come back later. I appreciate feedback, suggestions, and code reviews — feel free to reach out.
+I'm a student learning programming and computer systems. I often dive deep into a project, then switch to something else, and come back later. I appreciate feedback, suggestions, and code reviews - feel free to reach out.
 
 ## About me 👀
 - **Role:** Student
@@ -20,17 +20,3 @@ I'm a student learning programming and computer systems. I often dive deep into 
 - **Languages:** C, C++ (marked obsolete), Lua, Bash  
 - **Tools:** Git, Make/CMake (marked obsolete), clang-*, xmake  
 - **OS:** Linux (primary), Windows (as needed)
-
-## Now in work 🪛
-I'm redesigning my small repositories to follow consistent standards and restructuring the project template. After that, I plan to write a compact project template framework to bootstrap future repos.
-
-## Stats 📊
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IHateGameDev&hide=issues,prs&show_icons=true&theme=material-palenight&include_all_commits=true&custom_title=My+modest+statistics"/>
-  <p/><p/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateGameDev&hide=PowerShell&size_weight=0.5&count_weight=0.5&layout=compact&theme=material-palenight"/>
-</div>
-
-## Contact ✉️
-- GitHub Discussions: https://github.com/IHateGameDev/IHateGameDev/discussions  
-- Discord: https://discordapp.com/users/1258273988908552293/
